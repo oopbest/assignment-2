@@ -1,0 +1,50 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log
+.vscode/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+.env.test
+.env.production
+.env.*.local
+
+# Build output
+dist/
+build/
+.babelrc
+.cache/
+.next/
+out/
+coverage/
+.tmp/
+
+# Editor/IDE specific
+.vscode/
+.idea/
+*.suo
+*.sln
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Misc
+*.bak
+*.swp
+*.lock
+*.pid
